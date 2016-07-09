@@ -164,7 +164,7 @@ newAnimal2.speak();*/
 Create your own String method called findWords() that inherits from the native String Object. This method should find all instances of a specific word within a provided paragraph of text. It should then alert out to the user the number of times that word was found in the paragraph.*/
 
 
-var String = function(text, word) {
+/*var String = function(text, word) {
     this.text = text;
     this.word = word;
   }
@@ -175,7 +175,7 @@ String.prototype.findWord = function(text,word) {
 }
 
 var someString = new String('Flying a kite is like walking an elephant on a leash, it can easily decide to take you for a walk...this simple fact is not readily understood until one launches and flies a large power kite. Learning to kite is all about paying your dues.', 'kite');
-someString.findWord();
+someString.findWord();*/
 
 
 /*STEP 11 THE RECIPE CARD
